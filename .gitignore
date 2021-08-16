@@ -1,6 +1,3 @@
-figures
-GCaMP8_exported_ROIs_s2f_full
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -130,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+figures
+GCaMP8_exported_ROIs_s2f_full
+
